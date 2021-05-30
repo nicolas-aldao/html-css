@@ -1,0 +1,10 @@
+.header, .c1, .c2, .c3, .c4 {
+    width: 100%;
+}
+.c1 {
+    background-image: url("../images/background.jpg");
+    background-position: top;
+}
+.c1 p {
+    width: 65%;
+}
